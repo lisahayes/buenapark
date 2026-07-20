@@ -1,4 +1,0 @@
-# buenaparkleakrepairpros.com
-# CF Pages natively resolves /path/ from /path/index.html
-# Keep only: .html extension redirect for any old indexed URLs
-/*.html  /:splat  301

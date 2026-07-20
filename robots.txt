@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://buenaparkleakrepairpros.com/sitemap.xml
