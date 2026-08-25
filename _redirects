@@ -2,3 +2,6 @@
 # CF Pages natively resolves /path/ from /path/index.html
 # Keep only: .html extension redirect for any old indexed URLs
 /*.html  /:splat  301
+/water-damage/water-damage-restoration/*  /water-damage/  301
+/fire-damage/fire-damage-restoration/*  /fire-damage/  301
+/mold-removal/mold-removal/*  /mold-removal/  301
